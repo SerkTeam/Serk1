@@ -1,13 +1,9 @@
-# Serk_Bot
-Forked from LINEALPHA [MerkKremont]
+# ™S̶E̶R̶K̶~T̶E̶A̶M̶™
 
-fixing some error and delete unusable code 
+Git Clone https://github.com/SerkTeam
 
-## Require to install
-```
-pip install rsa
-pip install request
-pip install thrift==0.9.3
-```
-
-#Edit by Serk_Team
+Support by:
+🅢🅔🅡🅚~🅣🅔🅐🅜~🅑🅞🅣
+🅡🅐🅓🅔🅝🅡🅐🅜🅐🅓🅗🅐🅝
+🅐🅕🅘🅕🅐🅗🅡🅘🅩🅚🅘🅐🅤🅛🅘🅐
+🅦🅘🅩🅓🅞🅞🅜🅩🅢🅣🅞🅡🅔
